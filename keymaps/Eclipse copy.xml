@@ -11,7 +11,8 @@
     <keyboard-shortcut first-keystroke="ctrl b" />
     <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
-  <action id="GotoSuperMethod">
+  <action id="GotoImplementation">
+    <keyboard-shortcut first-keystroke="ctrl t" />
     <keyboard-shortcut first-keystroke="alt f3" />
   </action>
   <action id="ParameterInfo">

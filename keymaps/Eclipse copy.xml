@@ -11,6 +11,12 @@
     <keyboard-shortcut first-keystroke="ctrl b" />
     <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
+  <action id="GotoNextError">
+    <keyboard-shortcut first-keystroke="shift f6" />
+  </action>
+  <action id="GotoPreviousError">
+    <keyboard-shortcut first-keystroke="shift f5" />
+  </action>
   <action id="GotoSuperMethod">
     <keyboard-shortcut first-keystroke="alt f3" />
   </action>

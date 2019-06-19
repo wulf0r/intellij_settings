@@ -1,7 +1,6 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="productprocessing" type="PLAIN_TEXT" />
       <mapping pattern="performance" type="PLAIN_TEXT" />
       <mapping pattern="chromakeytest" type="PLAIN_TEXT" />
@@ -10,6 +9,7 @@
       <mapping ext="spec" type="PLAIN_TEXT" />
       <mapping ext="hjson" type="PLAIN_TEXT" />
       <mapping ext="job" type="Properties" />
+      <mapping pattern="standard_belegung" type="XML" />
     </extensionMap>
   </component>
 </application>

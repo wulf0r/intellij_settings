@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="productprocessing" type="PLAIN_TEXT" />
       <mapping pattern="performance" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="chromakeytest" type="PLAIN_TEXT" />
       <mapping pattern="chromakeyWithSchnieselImage" type="PLAIN_TEXT" />
       <mapping pattern="HJSONSupport.kt" type="PLAIN_TEXT" />

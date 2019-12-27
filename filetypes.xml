@@ -9,9 +9,9 @@
       <mapping pattern="chromakeyWithSchnieselImage" type="PLAIN_TEXT" />
       <mapping pattern="HJSONSupport.kt" type="PLAIN_TEXT" />
       <mapping pattern="chromakeytest" type="PLAIN_TEXT" />
-      <mapping ext="dat" type="PLAIN_TEXT" />
-      <mapping ext="spec" type="PLAIN_TEXT" />
       <mapping ext="hjson" type="PLAIN_TEXT" />
+      <mapping ext="spec" type="PLAIN_TEXT" />
+      <mapping ext="dat" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />

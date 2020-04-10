@@ -7,6 +7,7 @@
       <mapping pattern="performance" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="tou" type="PLAIN_TEXT" />
+      <mapping pattern="ALL_FO" type="PLAIN_TEXT" />
       <mapping pattern="asd" type="PLAIN_TEXT" />
       <mapping pattern="chromakeyWithSchnieselImage" type="PLAIN_TEXT" />
       <mapping pattern="bla" type="PLAIN_TEXT" />

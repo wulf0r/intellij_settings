@@ -9,6 +9,7 @@
       <mapping pattern="FO191203" type="PLAIN_TEXT" />
       <mapping pattern="FO191202" type="PLAIN_TEXT" />
       <mapping pattern="asd" type="PLAIN_TEXT" />
+      <mapping pattern="TEST_CASES" type="PLAIN_TEXT" />
       <mapping pattern="ALL_FO" type="PLAIN_TEXT" />
       <mapping pattern="bla" type="PLAIN_TEXT" />
       <mapping pattern="performance" type="PLAIN_TEXT" />

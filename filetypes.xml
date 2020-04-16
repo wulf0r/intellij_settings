@@ -3,7 +3,6 @@
     <extensionMap>
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping pattern="FO191204" type="PLAIN_TEXT" />
       <mapping pattern="chromakeyWithSchnieselImage" type="PLAIN_TEXT" />
       <mapping pattern="FO191205" type="PLAIN_TEXT" />
       <mapping pattern="FO191203" type="PLAIN_TEXT" />
@@ -14,11 +13,12 @@
       <mapping pattern="bla" type="PLAIN_TEXT" />
       <mapping pattern="performance" type="PLAIN_TEXT" />
       <mapping pattern="HJSONSupport.kt" type="PLAIN_TEXT" />
-      <mapping pattern="FO191201" type="PLAIN_TEXT" />
+      <mapping pattern="FO191204" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="productprocessing" type="PLAIN_TEXT" />
       <mapping pattern="chromakeytest" type="PLAIN_TEXT" />
       <mapping pattern="tou" type="PLAIN_TEXT" />
+      <mapping pattern="FO191201" type="PLAIN_TEXT" />
       <mapping ext="hjson" type="PLAIN_TEXT" />
       <mapping ext="driver" type="PLAIN_TEXT" />
       <mapping ext="spec" type="PLAIN_TEXT" />

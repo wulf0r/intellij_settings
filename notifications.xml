@@ -2,5 +2,6 @@
   <component name="NotificationConfiguration">
     <notification groupId="Maven: non-managed pom.xml" displayType="NONE" shouldLog="false" />
     <notification groupId="Suggest Run Dashboard" displayType="NONE" />
+    <notification groupId="Vcs Important Messages" displayType="NONE" shouldLog="false" />
   </component>
 </application>

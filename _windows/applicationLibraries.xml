@@ -46,5 +46,23 @@
       <JAVADOC />
       <SOURCES />
     </library>
+    <library name="sapui5" type="javaScript">
+      <properties>
+        <option name="frameworkName" value="jQuery" />
+        <sourceFilesUrls>
+          <item url="file://C:/Wulf_files/tools/sapui5-sdk-1.52.33/libraries/sap.m.js" />
+          <item url="file://C:/Wulf_files/tools/sapui5-sdk-1.52.33/libraries/sap.ui.layout.js" />
+          <item url="file://C:/Wulf_files/tools/sapui5-sdk-1.52.33/resources/sap-ui-core-all-dbg.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://C:/Wulf_files/tools/sapui5-sdk-1.52.33/libraries/sap.m.js" />
+        <root url="file://C:/Wulf_files/tools/sapui5-sdk-1.52.33/libraries/sap.ui.layout.js" />
+        <root url="file://C:/Wulf_files/tools/sapui5-sdk-1.52.33/resources/sap-ui-core-all-dbg.js" />
+        <root url="file://C:/Wulf_files/tools/sapui5-sdk-1.52.33/resources/sap/m/library-all.js" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
   </component>
 </application>

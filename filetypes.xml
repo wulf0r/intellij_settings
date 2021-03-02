@@ -26,6 +26,8 @@
       <mapping ext="hjson" type="PLAIN_TEXT" />
       <mapping ext="driver" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
+      <mapping ext="lsp" type="PLAIN_TEXT" />
+      <mapping ext="lisp" type="PLAIN_TEXT" />
       <mapping ext="graphql" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <mapping ext="job" type="Properties" />

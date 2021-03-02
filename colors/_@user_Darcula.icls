@@ -4,13 +4,15 @@
     <property name="created">2018-11-01T10:49:32</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.2.5.0.0</property>
-    <property name="modified">2020-07-21T09:50:24</property>
+    <property name="modified">2020-12-25T22:57:16</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
   <option name="EDITOR_FONT_SIZE" value="14" />
   <option name="EDITOR_FONT_NAME" value="Consolas" />
   <option name="EDITOR_LIGATURES" value="true" />
+  <option name="CONSOLE_FONT_NAME" value="Consolas" />
+  <option name="CONSOLE_LIGATURES" value="true" />
   <colors>
     <option name="FILESTATUS_ADDED" value="c3e88d" />
     <option name="FILESTATUS_DELETED" value="808080" />

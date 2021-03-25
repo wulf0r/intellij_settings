@@ -12,6 +12,7 @@
       <mapping pattern="performance" type="PLAIN_TEXT" />
       <mapping pattern="chromakeyWithSchnieselImage" type="PLAIN_TEXT" />
       <mapping pattern="ALL_FO" type="PLAIN_TEXT" />
+      <mapping pattern="sad" type="PLAIN_TEXT" />
       <mapping pattern="FO191202" type="PLAIN_TEXT" />
       <mapping pattern="FO191203" type="PLAIN_TEXT" />
       <mapping pattern="FO191204" type="PLAIN_TEXT" />

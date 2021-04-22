@@ -5,6 +5,7 @@
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="old_copyjs" type="PLAIN_TEXT" />
       <mapping pattern="tou" type="PLAIN_TEXT" />
       <mapping pattern="HJSONSupport.kt" type="PLAIN_TEXT" />
       <mapping pattern="FO191205" type="PLAIN_TEXT" />

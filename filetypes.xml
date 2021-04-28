@@ -5,11 +5,12 @@
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="old_copyjs" type="PLAIN_TEXT" />
       <mapping pattern="tou" type="PLAIN_TEXT" />
       <mapping pattern="HJSONSupport.kt" type="PLAIN_TEXT" />
       <mapping pattern="FO191205" type="PLAIN_TEXT" />
-      <mapping pattern="performance" type="PLAIN_TEXT" />
       <mapping pattern="bla" type="PLAIN_TEXT" />
+      <mapping pattern="performance" type="PLAIN_TEXT" />
       <mapping pattern="chromakeyWithSchnieselImage" type="PLAIN_TEXT" />
       <mapping pattern="ALL_FO" type="PLAIN_TEXT" />
       <mapping pattern="auditlog-managment-service-key" type="PLAIN_TEXT" />
@@ -31,7 +32,9 @@
       <mapping ext="lsp" type="PLAIN_TEXT" />
       <mapping ext="lisp" type="PLAIN_TEXT" />
       <mapping ext="graphql" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <mapping ext="job" type="Properties" />
       <mapping pattern="standard_belegung" type="XML" />
       <mapping pattern="mitarbeiter_stats" type="XML" />

@@ -1,16 +1,14 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <ignoreFiles list="*.hprof;*.pdf;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.gradle;.hg;.m2;.svn;C:\Users\wulf\.gradle\*;CVS;__pycache__;_svn;m2;vssver.scc;vssver2.scc;" />
     <extensionMap>
+      <mapping pattern="transaction_with_receipt" type="AUTO_DETECTED" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="bla" type="Native" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
-      <mapping pattern="transaction_with_receipt" type="AUTO_DETECTED" />
     </extensionMap>
   </component>
 </application>
